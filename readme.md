@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação back-end desenvolvida em Java utilizando o framework Spring Boot. A aplicação permite o gerenciamento de eventos e inscrições, oferecendo funcionalidades para criar eventos, listar eventos, e gerenciar inscrições de usuários.
+Este projeto é uma aplicação back-end desenvolvida em Java utilizando o framework Spring Boot, com a estruturação do projeto desde a modelagem dos dados até a implementação das funcionalidades principais. A aplicação permite o gerenciamento de eventos e inscrições, oferecendo funcionalidades para criar e listar eventos, além de gerenciar inscrições de usuários. O desenvolvimento foi realizado com Maven, utilizando API Rest para comunicação e integração com o banco de dados MySQL por meio de JPA e JDBC. A manipulação de dados foi feita com records, e o sistema inclui uma funcionalidade de indicações, com ranking dos usuários que mais convidaram pessoas para o evento.
 
 ## Funcionalidades do projeto
 
